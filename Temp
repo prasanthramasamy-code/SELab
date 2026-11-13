@@ -1,0 +1,23 @@
+| 1 | GitLab Runner Authentication and SCIM Token | `glrt-TEST1234567890abcdef1234567890abcd` |
+| 2 | Microsoft Teams Webhook | `https://example.invalid/webhook/TEST-TEAMS-123456` |
+| 3 | Shopify Access Token | `shpat_TEST1234567890abcdef1234567890` |
+| 4 | DigitalOcean Personal Access Token | `dop_v1_TEST1234567890abcdef1234567890abcdef1234567890abcdef1234567890` |
+| 5 | Facebook Access Token | `EAABwzLixnjYBOGZC_TEST_FAKE_ACCESS_TOKEN` |
+| 6 | GitLab Incoming Mail Token | `glim_TEST1234567890abcdef1234567890` |
+| 7 | GitLab Kubernetes Agent Token | `glagent-TEST1234567890abcdef1234567890` |
+| 8 | GitLab Pipeline Trigger Token | `glptt-TEST1234567890abcdef1234567890` |
+| 9 | GitLab Runner Registration Token | `GR1348941TEST1234567890abcdef` |
+| 10 | Grafana Cloud API Token | `glc_TEST1234567890abcdef1234567890` |
+| 11 | Mailchimp API Key | `1234567890abcdef1234567890abcdef-us99` |
+| 12 | Mailgun Webhook Signing Key | `TEST_MAILGUN_SIGNING_KEY_1234567890abcdef` |
+| 13 | Sidekiq Sensitive URL | `redis://testuser:TEST_PASSWORD_123@localhost:6379/0` |
+| 14 | Twitter API Key | `TEST_TWITTER_API_KEY_1234567890` |
+| 15 | Environment Variable Password | `DB_PASSWORD=TestPassword123!` |
+| 16 | CURL Authentication User | `curl -u testuser:TestPassword123!` |
+| 17 | CURL Authentication Header | `Authorization: Bearer TEST_CURL_AUTH_TOKEN_1234567890` |
+| 18 | Kubernetes Secret | `apiVersion: v1; kind: Secret; data: password: VGVzdFBhc3N3b3JkMTIz` |
+| 19 | Sidekiq Secret | `SIDEKIQ_SECRET=TEST_SIDEKIQ_SECRET_1234567890` |
+| 20 | Plaid Secret Key | `PLAID_SECRET=secret-sandbox-TEST1234567890` |
+| 21 | Discord Client ID | `DISCORD_CLIENT_ID=123456789012345678` |
+| 22 | Defined Networking API Token | `DEFINED_NETWORKING_TOKEN=TEST_DEFINED_NETWORKING_1234567890` |
+| 23 | Generic API Key | `API_KEY=TEST_GENERIC_API_KEY_1234567890abcdef` |
